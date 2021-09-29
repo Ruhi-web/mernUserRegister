@@ -1,4 +1,4 @@
-# mernUserRegister
+# Create and display User details using MERN Stack
 Mongodb cloud storage is used to store user information.
 Express/NodeJs is used as backend.
 React with material UI is used to build forms in the frontend.
